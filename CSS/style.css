@@ -1,0 +1,16 @@
+
+title {
+    /*Alineación(derecha); Fuente(Arial); Tamaño(36 pixeles); Color(azul);*/
+    color: blue;
+    font-size: 36px;
+    text-align: right;
+    font-family: Arial;
+}
+titulo {
+    /*Alineación(Izquierda); Fuente(Tahoma); Tamaño(28 pixeles); Color(rojo)*/
+    text-align: left;
+    font-family: Tahoma;
+    font-size: 28px;
+    color: red;
+        
+}
